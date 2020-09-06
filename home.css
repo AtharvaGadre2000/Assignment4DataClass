@@ -1,0 +1,54 @@
+.order-details{
+    font-size:20px;
+    border: 10px solid black;
+    padding: 15px;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    border-color: honeydew;
+    background-image: url(https://www.ulladulla-indian-restaurant.com/wp-content/uploads/2016/08/full-hd-wallpaper-food-2.jpg);
+    background-size: cover;
+    
+  }
+  span{
+    font-size:17px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration-style: solid;
+    color: white  ;
+  }
+  
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 45px;
+  color: black;
+}
+h2,.menu-1{
+  padding: 18px;
+  font-family: monospace;
+  color: black;
+}
+
+label{
+  font-size: 20px;
+}
+body{
+    background-image: url(https://www.sundayguardianlive.com/wp-content/uploads/2020/07/3-Dib-restaurant-losses-edited.jpg);
+    background-size: cover;
+}
+footer{
+  background-color: black;
+  text-align: center;
+  color:white;
+}
+
+img{
+    position: fixed;
+    height: 150px;
+    width: 150px;
+    padding: 0px;
+    right: 0px;
+    top: 5px;
+    border: 1px solid black;
+
+}
